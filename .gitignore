@@ -1,2 +1,3 @@
 #passkeys - ignore 
-*.txt
+secrets.txt
+apikey.txt
